@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=AI+Agent+Builder;Python+Developer;Open+Source+Enthusiast;Automate+Everything+%F0%9F%94%A7" alt="typing svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=150&lines=AI+Agent+Builder;Python+Developer;Open+Source+Enthusiast;Automate+Everything+%F0%9F%94%A7" alt="typing svg" />
 </p>
 
 ---
@@ -63,19 +63,19 @@
 
 <p align="center">
   <a href="https://github.com/ZionFeng163">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" height="50"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://x.com/ZionFeng3364">
-    <img src="https://skillicons.dev/icons?i=x&theme=dark" alt="X/Twitter" height="50"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://zionfeng.org">
-    <img src="https://skillicons.dev/icons?i=chrome&theme=dark" alt="Website" height="50"/>
+    <img src="https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:a1030349525@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" height="50"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
