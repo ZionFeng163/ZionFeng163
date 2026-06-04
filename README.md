@@ -49,22 +49,18 @@
 
 <p align="center">
   <a href="https://github.com/ZionFeng163">
-    <img src="https://img.shields.io/badge/@ZionFeng163-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=social&logo=github" alt="GitHub"/>
   </a>
   &nbsp;
   <a href="https://x.com/ZionFeng3364">
-    <img src="https://img.shields.io/badge/@ZionFeng3364-000000?style=flat-square&logo=x&logoColor=white" alt="X/Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=x" alt="X/Twitter"/>
   </a>
   &nbsp;
   <a href="https://zionfeng.org">
-    <img src="https://img.shields.io/badge/zionfeng.org-008080?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-008080?style=social&logo=googlechrome" alt="Website"/>
   </a>
   &nbsp;
   <a href="mailto:a1030349525@gmail.com">
-    <img src="https://img.shields.io/badge/a1030349525@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=social&logo=gmail" alt="Email"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZionFeng163&color=3b82f6&style=flat-square&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
