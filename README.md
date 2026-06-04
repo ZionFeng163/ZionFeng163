@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm ZionFeng163</h1>
+<h1 align="center">Hi 👋, I'm ZionFeng</h1>
 
 <h3 align="center">AI · Agent · Python</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:3b82f6&height=220&section=header&text=ZionFeng163&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=%20%20AI%20%7C%20Agent%20%7C%20Python&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:3b82f6&height=220&section=header&text=ZionFeng&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=%20%20AI%20%7C%20Agent%20%7C%20Python&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
@@ -66,7 +66,15 @@
     <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your-email@example.com">
+  <a href="https://x.com/ZionFeng3364">
+    <img src="https://skillicons.dev/icons?i=x&theme=dark" alt="X/Twitter" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://zionfeng.org">
+    <img src="https://skillicons.dev/icons?i=chrome&theme=dark" alt="Website" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:a1030349525@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" height="50"/>
   </a>
 </p>
