@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:3b82f6&height=220&section=header&text=ZionFeng163&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=%20%20Java%20%7C%20Python%20%7C%20Automation&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Java+%26+Python+Developer;Open+Source+Enthusiast;Building+Cool+Tools;Automate+Everything+%F0%9F%94%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Federated+Learning+Researcher;AI+Agent+Builder;Python+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,12 +12,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on **microservices & cloud-native applications**
-- 🌱 Exploring **Spring Cloud Alibaba** ecosystem
+- 🔭 Currently working on **Federated Learning** & **AI Agents**
+- 🌱 Exploring **MoE Routing** and **Continual Learning**
 - 💡 Love building **automation tools** and **side projects**
-- 🎮 Modded **Darkest Dungeon** in Chinese
-- 📚 Built an **EPUB3 builder** & **article fetcher**
-- ⚡ GitHub Actions enthusiast — automating sign-ins, builds, and more
+- 📚 Research in **Training-free Routing** for Federated Continual Learning
+- ⚡ GitHub Actions enthusiast — automating workflows and pipelines
 
 ---
 
@@ -25,16 +24,16 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
@@ -69,23 +68,23 @@
 
 ## 📌 Pinned Projects
 
-<a href="https://github.com/ZionFeng163/SpringCloudAlibabaDemo">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZionFeng163&repo=SpringCloudAlibabaDemo&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/ZionFeng163/FedFRoM">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZionFeng163&repo=FedFRoM&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/ZionFeng163/epub3builder">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZionFeng163&repo=epub3builder&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/ZionFeng163/LitVoice-Agent">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZionFeng163&repo=LitVoice-Agent&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/ZionFeng163/dmzj_tool">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZionFeng163&repo=dmzj_tool&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/ZionFeng163/Local-Cron-Agent">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZionFeng163&repo=Local-Cron-Agent&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/ZionFeng163/dd_tool">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZionFeng163&repo=dd_tool&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/ZionFeng163/npm-incident-check">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZionFeng163&repo=npm-incident-check&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/ZionFeng163/TiebaSignIn-1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZionFeng163&repo=TiebaSignIn-1&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/ZionFeng163/github-post-workflow">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZionFeng163&repo=github-post-workflow&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/ZionFeng163/article_fetch">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZionFeng163&repo=article_fetch&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/ZionFeng163/blog">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZionFeng163&repo=blog&theme=tokyonight&hide_border=true" />
 </a>
 
 ---
