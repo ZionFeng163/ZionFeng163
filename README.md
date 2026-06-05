@@ -51,15 +51,12 @@
   <a href="https://github.com/ZionFeng163">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github" alt="GitHub"/>
   </a>
-  &nbsp;
   <a href="https://x.com/ZionFeng3364">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=x" alt="X/Twitter"/>
   </a>
-  &nbsp;
   <a href="https://zionfeng.org">
     <img src="https://img.shields.io/badge/Website-008080?logo=googlechrome" alt="Website"/>
   </a>
-  &nbsp;
   <a href="mailto:a1030349525@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail" alt="Email"/>
   </a>
