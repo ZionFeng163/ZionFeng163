@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Exploring+AI+and+Agent+Tools;Testing+Open+Source+Projects;Sharing+Practical+Notes" alt="Exploring AI, agents, and open-source tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1000&pause=500&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Exploring+AI+and+Agent+Tools;Testing+Open+Source+Projects;Sharing+Practical+Notes" alt="Exploring AI, agents, and open-source tools" />
 </p>
 
 ---
