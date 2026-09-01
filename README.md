@@ -1,28 +1,26 @@
-<h1 align="center">Hi 👋, I'm ZionFeng</h1>
+<h1 align="center">Hi 👋, I'm Zion</h1>
 
-<h3 align="center">AI · Agent · Python</h3>
+<h3 align="center">AI · Agents · Open Source</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:3b82f6&height=220&section=header&text=ZionFeng&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=%20%20AI%20%7C%20Agent%20%7C%20Python&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:3b82f6&height=200&section=header&text=Zion&fontSize=76&fontColor=ffffff&fontAlignY=35&desc=AI%20%7C%20Agents%20%7C%20Open%20Source&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="Zion — AI, Agents, and Open Source"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1000&pause=500&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=150&lines=AI+Agent+Builder;Python+Developer;Open+Source+Enthusiast;Automate+Everything+%F0%9F%94%A7" alt="typing svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Exploring+AI+and+Agent+Tools;Testing+Open+Source+Projects;Sharing+Practical+Notes" alt="Exploring AI, agents, and open-source tools" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working on **AI Agents** & **Intelligent Automation**
-- 🌱 Exploring **LLM Tooling** and **Agent Frameworks**
-- 💡 Love building **automation tools** and **side projects**
-- 📚 Building **Claude Code skills** and **AI-powered workflows**
-- ⚡ GitHub Actions enthusiast — automating everything
+- 🔍 Exploring **AI agents**, **LLM tooling**, and **open-source projects**
+- 🛠️ Building practical **automation tools** and **developer workflows**
+- ✍️ Sharing hands-on notes and observations at **[zionfeng.org](https://zionfeng.org)**
 
 ---
 
-### 📌 Pinned Projects
+### 📌 Selected Repositories
 
 | Project | Description | Language |
 |---------|-------------|----------|
@@ -35,29 +33,19 @@
 
 ---
 
-### 📈 Activity Graph
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZionFeng163&theme=tokyonight&hide_border=true" alt="activity graph"/>
-  </a>
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/ZionFeng163">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://x.com/ZionFeng3364">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=x" alt="X/Twitter"/>
+    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://zionfeng.org">
-    <img src="https://img.shields.io/badge/Website-008080?logo=googlechrome" alt="Website"/>
+    <img src="https://img.shields.io/badge/Blog-3B82F6?logo=astro&logoColor=white" alt="Blog"/>
   </a>
   <a href="mailto:a1030349525@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
